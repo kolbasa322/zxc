@@ -1,0 +1,56 @@
+﻿Build started 14.01.2021 21:37:20.
+     1>Project "C:\Users\Никита)\Desktop\lab6\lab6\lab6\lab6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(48): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(49): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(50): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(53): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(61): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(62): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(63): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(65): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(80): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(82): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(84): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(97): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(105): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(106): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+     1>c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(108): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(44) : definition of 'i' ignored
+                 c:\users\никита)\desktop\lab6\lab6\lab6\source.cpp(10) : definition of 'i' used
+       Link:
+         F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита)\Desktop\lab6\lab6\Debug\lab6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Никита)\Desktop\lab6\lab6\Debug\lab6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита)\Desktop\lab6\lab6\Debug\lab6.lib" /MACHINE:X86 Debug\Source.obj
+         lab6.vcxproj -> C:\Users\Никита)\Desktop\lab6\lab6\Debug\lab6.exe
+     1>Done Building Project "C:\Users\Никита)\Desktop\lab6\lab6\lab6\lab6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.93
